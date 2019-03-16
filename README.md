@@ -5,4 +5,4 @@ Use to test your application code against a functional, single node Elasticsearc
 
 See the https://github.com/wdekker/elastic-unit/tree/master/src/test/java/dev/dekker/elasticunit for code samples on usage.
 
-Disclaimer: the cluster is started in the same JVM which is not supported by Elastic and may lead to unexpected results.
+Disclaimer: the cluster is started in the same JVM which is not supported by Elastic.
